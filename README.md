@@ -1,14 +1,18 @@
 # SQL手册
 
-欢迎访问SQL手册
+## 一、前言
+
+**欢迎访问SQL手册**
+
+**作者QQ：15593838**
+
+**github地址：https://github.com/BrechtCheung/sqlManual**
 
 若您发现手册中有错误，或者您有更好的建议或意见，可以加我（QQ:15593838）进行反馈
 
 手册整理不易，若能满足您的需求，可以给作者发个小红包支持一下。万分感谢!
 
-![微信](https://i.loli.net/2021/11/20/1dBp5eOzFJU7wSa.jpg)![支付宝](https://i.loli.net/2021/11/20/MetDK81iSZTFcbp.jpg)
-
-
+![微信和支付宝](https://s2.loli.net/2021/12/30/2Wa1UdxhbXJkF59.jpg)
 
 
 
