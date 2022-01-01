@@ -236,10 +236,10 @@ select * from 表名 limit 3,7
 select top 50 percent * from 表名;
 ```
 
-### 3、havin
+### 3、having
 
 ```
-havin 可以理解为group 的 where语句 
+having 可以理解为group 的 where语句 
 在 sql 中增加 having 子句原因是，where 关键字无法与聚合函数一起使用。
 having 子句可以让我们筛选分组后的各组数据。
 ```
