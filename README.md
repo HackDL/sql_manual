@@ -1186,7 +1186,7 @@ select schema_name(1);
 
 ## 十五、函数
 
-### 1、日期
+### 1、date
 
 #### （1）、mysql date
 
